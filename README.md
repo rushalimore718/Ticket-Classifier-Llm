@@ -32,5 +32,5 @@ python src/predict.py
 ```
 
 ## 📝 Author
-Built during grind time to demonstrate ITES/ITOrk + NLP/LLM + DB integration.
+Built to demonstrate ITES/ITOrk + NLP/LLM + DB integration.
 ```
